@@ -1,5 +1,5 @@
 # Dashboard App for Pokemon Fans
-Framework - Flutter 
+Framework - Google Flutter 
 
 Language - Dart
 
