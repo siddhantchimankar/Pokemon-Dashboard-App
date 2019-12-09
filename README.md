@@ -5,4 +5,4 @@ Language - Dart
 
 Environment - Android Studio
 
-Project - An app which works as a virtual shopping cart on both Android aand iOS devices.
+Project - A simple Flutter based Dashboard app for Pokemon fans like me!
