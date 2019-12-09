@@ -1,4 +1,4 @@
-# Virtual-Shopping-Cart-App
+# Dashboard App for Pokemon fans
 Framework - Flutter 
 
 Language - Dart
