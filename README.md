@@ -1,4 +1,4 @@
-# Dashboard App for Pokemon fans
+# Dashboard App for Pokemon Fans
 Framework - Flutter 
 
 Language - Dart
